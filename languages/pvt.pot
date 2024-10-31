@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pvt Product View Tracker 1.0\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/pvt-productViewTracker-class.php:60
+msgid "Most Viewed Products"
+msgstr ""
+
+#:  includes/pvt-productViewTracker-class.php.:142
+msgid "Most Viewed Products"
+msgstr ""
+
+#:  includes/pvt-productViewTracker-class.php.:145
+msgid "Search Product"
+msgstr ""
+
+#:  includes/pvt-productViewTracker-class.php.:147
+msgid "Select Category"
+msgstr ""
+
+#:  includes/pvt-productViewTracker-class.php.:152
+msgid "Search"
+msgstr ""
+
+#:  includes/pvt-productViewTracker-class.php.:157
+msgid "Product"
+msgstr ""
+
+#:  includes/pvt-productViewTracker-class.php.:157
+msgid "Views"
+msgstr ""
+
+#: includes/pvt-productViewTracker-class.php.:157
+msgid "Orders"
+msgstr ""
+
+#:  includes/pvt-productViewTracker-class.php.:157
+msgid "Last View"
+msgstr ""
+
+#:  includes/pvt-productViewTracker-class.php.:166
+msgid "No product views found."
+msgstr ""
+
+#:  includes/pvt-productViewTracker-class.php.:183
+msgid "&laquo; Previous"
+msgstr ""
+
+#:  includes/pvt-productViewTracker-class.php.:184
+msgid "Next &raquo;"
+msgstr ""
+
+#:  includes/pvt-productViewTracker-class.php.:204
+msgid "Top Categories by Product Views"
+msgstr ""
+
